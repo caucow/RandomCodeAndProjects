@@ -1,8 +1,10 @@
 # RandomCodeAndProjects
 
 A repository for random projects and files that I'm kind of open sourcing but
-may or may not also include wacky licensing or usage restrictions because I don'
-t like you. Yes, you, the one reading this right now. I don't like you.
+may or may not also include wacky licensing or usage restrictions because I
+don't like you. Yes, you, the one reading this right now. I don't like you.
+Also generally as far from "professional" as can be so if that's what you were
+looking for, look elsewhere.
 
 Licenses in file headers (or otherwise attached to or included in a file for
 non-text files) take precedence over directory specific licenses, which take
